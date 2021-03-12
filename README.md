@@ -1,4 +1,4 @@
-![discoort](https://user-images.githubusercontent.com/58362788/110899043-fb245d80-8332-11eb-803f-03696ae269ca.png)
+![discount](https://user-images.githubusercontent.com/58362788/110899165-32930a00-8333-11eb-870f-92bdd9617918.png)
 
 
 <!---
